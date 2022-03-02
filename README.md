@@ -1,2 +1,2 @@
-# Phyton
-Phyton
+# Python
+Python
